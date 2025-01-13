@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nsearcy-clgx
+- 👋 Hi, I’m Nicholas
 - 👀 I’m interested in Technology (obviously!), Cooking, Gaming (PC/XBOX/PS5)/Game Development, Sewist. 
 - 🌱 I’m currently learning C#, Design Principles and Domain Driven Design. 
 - 💞️ I’m looking to collaborate on RCT, MSVP, Integration Projects
